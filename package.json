@@ -1,0 +1,23 @@
+{
+  "name": "reveal-cleaver-theme",
+  "version": "1.0.0",
+  "description": "reveal-cleaver-theme ================",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsaylor/reveal-cleaver-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjsaylor/reveal-cleaver-theme/issues"
+  },
+  "homepage": "https://github.com/cjsaylor/reveal-cleaver-theme#readme",
+  "dependencies": {
+    "prismjs": "^1.8.4",
+    "reveal.js": "^3.6.0"
+  }
+}
